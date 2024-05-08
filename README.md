@@ -36,7 +36,7 @@ who I am?: hello guys, im notdrizy, a professional bug creator 👍
 
 <a href="[https://github.com/NotDrizy](https://github.com/NotDrizy"><img src="https://komarev.com/ghpvc/?username=NotDrizy" alt="Profile Views"/></a>
 
-| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/587188493713932298?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&theme=radical" /> |
+| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/967340965822099517?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&theme=radical" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDrizy&theme=radical)
