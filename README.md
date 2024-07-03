@@ -17,7 +17,6 @@ who I am?: hello guys, im notdrizy,
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=%#31A8FF)
 ![CSS](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%#31A8FF)
 ![CINEMA4D](https://img.shields.io/badge/Cinema%204D-%23323330.svg?style=for-the-badge&logo=Cinema%204D&logoColor=%#31A8FF)
@@ -27,7 +26,7 @@ who I am?: hello guys, im notdrizy,
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
 ![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%#31A8FF)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) im still learning...
 
 <h2>📊 Stats:</h2>
 
