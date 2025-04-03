@@ -16,11 +16,9 @@ who I am?: hello guys, im notdrizy,
 <h3> Languages ​​and Skills and Game Engines I've been dealing with over time. </h3>
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=%#31A8FF)
 ![CSS](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%#31A8FF)
 ![CINEMA4D](https://img.shields.io/badge/Cinema%204D-%23323330.svg?style=for-the-badge&logo=Cinema%204D&logoColor=%#31A8FF)
-![EclipseIDE](https://img.shields.io/badge/Eclipse%20IDE-%23323330.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=%#31A8FF)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=%#31A8FF)
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23323330.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%#31A8FF)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
