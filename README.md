@@ -16,11 +16,17 @@ who I am?: hello guys, im notdrizy,
 <h3> Languages ​​and Skills and Game Engines I've been dealing with over time. </h3>
 
 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![CINEMA4D](https://img.shields.io/badge/Cinema%204D-%23323330.svg?style=for-the-badge&logo=Cinema%204D&logoColor=%#31A8FF)
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23323330.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%#31A8FF)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
 ![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%#31A8FF)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) im still learning...
 
 | <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/967340965822099517?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&theme=radical" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
