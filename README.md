@@ -16,19 +16,11 @@ who I am?: hello guys, im notdrizy,
 <h3> Languages ​​and Skills and Game Engines I've been dealing with over time. </h3>
 
 
-![HTML](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=%#31A8FF)
-![CSS](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%#31A8FF)
 ![CINEMA4D](https://img.shields.io/badge/Cinema%204D-%23323330.svg?style=for-the-badge&logo=Cinema%204D&logoColor=%#31A8FF)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=%#31A8FF)
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23323330.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%#31A8FF)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
 ![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%#31A8FF)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) im still learning...
-
-<h2>📊 Stats:</h2>
-
-<a href="[https://github.com/NotDrizy](https://github.com/NotDrizy"><img src="https://komarev.com/ghpvc/?username=NotDrizy" alt="Profile Views"/></a>
 
 | <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/967340965822099517?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&theme=radical" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
