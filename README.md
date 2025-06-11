@@ -1,4 +1,4 @@
-<h2> Hi, I'm Drizy! <img src="https://media.discordapp.net/attachments/1232705445597020311/1236728645045715100/foto_profilo.png?ex=663d054e&is=663bb3ce&hm=f8464e593002137a207054ac9849da302c1dd8197abc6766a4a3f73f92e65129&=&format=webp&quality=lossless" width="50"></h2>
+<h2> Hi, I'm Drizy! <img src="https://media.discordapp.net/attachments/1292558952986574919/1382467576478830672/d7011aec179852075d60cb15dbbdebe4.jpg?ex=684b42c3&is=6849f143&hm=650e67e776a3d2ec150888839f1ca64b54a1337d763efafd3ea2948787de30b8&=&format=webp&width=551&height=505" width="50"></h2>
 <div>
   <a href="https://github.com/NotDrizy"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
   <a href="https://discord.com/users/967340965822099517"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/587188493713932298" alt="Discord Badge"/></a>
@@ -13,7 +13,7 @@ who I am?: hello guys, im notdrizy,
 ```
 
 <h2> Experience </h2>
-<h3> Languages ​​and Skills and Game Engines I've been dealing with over time. </h3>
+<h3> Languages ​​and Skills I've been dealing with over time. </h3>
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,8 +27,3 @@ who I am?: hello guys, im notdrizy,
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) im still learning...
-
-| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/967340965822099517?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&theme=radical" /> |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDrizy&theme=radical)
