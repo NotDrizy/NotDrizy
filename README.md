@@ -23,5 +23,5 @@ who I am?: hello guys, im notdrizy,
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![REACT](https://img.shields.io/badge/react-%0081A3.svg?style=for-the-badge&logo=react&logoColor=white)
+![REACT](https://img.shields.io/badge/react-%000000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NEXTJS](https://img.shields.io/badge/nextjs-%1f2937.svg?style=for-the-badge&logo=nextjs&logoColor=white)
