@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:24134A,100:7C3AED&height=145&section=header&text=Hi,%20I'm%20Drizy&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/NotDrizy">
-<img src="https://media.discordapp.net/attachments/1292558952986574919/1382467576478830672/d7011aec179852075d60cb15dbbdebe4.jpg?format=webp&width=200&height=200" width="105" style="border-radius:50%" />
 </a>
 
 NotDrizy / Developer & Digital Creator
