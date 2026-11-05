@@ -2,8 +2,6 @@
 
 <h2>Hey, I'm Drizy <sup>✳</sup></h2>
 
-<img src="https://media.discordapp.net/attachments/1292558952986574919/1382467576478830672/d7011aec179852075d60cb15dbbdebe4.jpg?format=webp&width=200&height=200" width="100" />
-
 NotDrizy   /   Developer & Digital Creator
 
 <br/>
