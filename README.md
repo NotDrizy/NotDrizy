@@ -1,151 +1,109 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=500&height=65&lines=Hey%2C+I'm+Drizy+%F0%9F%91%8B" alt="Hey, I'm Drizy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:8B5CF6&height=220&section=header&text=DRIZY&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-NotDrizy — Developer • Creator • Tech Enthusiast
-
-Turning ideas into reality, one line of code at a time.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub.;Building+ideas+into+reality.;Always+learning.+Always+creating." />
 
 <br/>
 
+<a href="https://github.com/NotDrizy"><img src="https://img.shields.io/badge/GitHub-NotDrizy-171717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://discord.com/users/967340965822099517"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://t.me/NotDrizy"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=NotDrizy&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+About Me
+
+<img align="right" width="130" src="https://media.discordapp.net/attachments/1292558952986574919/1382467576478830672/d7011aec179852075d60cb15dbbdebe4.jpg?format=webp&width=300&height=300" />
+
+Hey! I'm Drizy, also known as NotDrizy.
+
+I'm passionate about technology, programming and digital creativity. I enjoy exploring new technologies, experimenting with different tools and creating projects that turn ideas into reality.
+
+💻 Interested in software and web development
+🚀 Always exploring new technologies
+🎨 Creative side: design and multimedia
+🧠 Constantly learning and improving
+
+<br clear="right"/>
+
+Tech Stack & Tools
+
+Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,js&theme=dark" />
+</p>
+
+Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
+</p>
+
+Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,pr&theme=dark" />
+</p>
+
+GitHub Analytics
+
+<div align="center">
+
 <a href="https://github.com/NotDrizy">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
 </a>
-<a href="https://discord.com/users/967340965822099517">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA" />
-</a>
-<a href="https://t.me/NotDrizy">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+<a href="https://github.com/NotDrizy">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDrizy&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=NotDrizy&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotDrizy&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
 
 </div>
 
-01 — WHO AM I?
-bash
-┌──(NotDrizy㉿root)-[~]
-└─$ whoami
-
-> Hello, world! I'm Drizy.
-> Passionate about technology, development and creativity.
-> Always exploring, learning and building something new.
-
-┌──(NotDrizy㉿root)-[~]
-└─$ echo $CURRENT_MISSION
-
-> Build. Learn. Improve. Repeat.
-
-
-I'm a tech enthusiast who enjoys experimenting with different technologies, developing projects and turning creative ideas into functional solutions.
-
-I believe that every project is an opportunity to learn something new.
-
-js
-const Drizy = {
-    username: "NotDrizy",
-    alias: "Drizy",
-    role: "Developer",
-    mindset: "Always learning",
-    interests: [
-        "Programming",
-        "Web Development",
-        "Databases",
-        "Creative Design",
-        "Technology"
-    ],
-    motto: "Think different. Code better."
-};
-
-02 — TECH ARSENAL
-
-<details open>
-<summary><b>💻 Development & Frameworks</b></summary>
-<br/>
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎨 Creative & Design</b></summary>
-<br/>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
-</details>
-
-03 — GITHUB STATISTICS
+Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/NotDrizy">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
-</a>
-
-<a href="https://github.com/NotDrizy">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDrizy&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-</a>
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotDrizy&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+<img src="https://raw.githubusercontent.com/NotDrizy/NotDrizy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
-04 — CONTRIBUTION GRAPH
+Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotDrizy&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+Have a project in mind or just want to talk about technology?
 
-</div>
-
-05 — CONNECT WITH ME
-
-<div align="center">
-
-Have an interesting idea, project or just want to talk?
-
-Feel free to reach out!
+Feel free to reach out.
 
 <br/>
 
 <a href="https://github.com/NotDrizy">
-<img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://discord.com/users/967340965822099517">
-<img src="https://img.shields.io/badge/Find%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-
 <a href="https://t.me/NotDrizy">
-<img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=120&section=footer" width="100%" />
+"Think different. Build something extraordinary."
 
-Designed with passion by <b>Drizy</b> · © 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:312E81,100:09090F&height=120&section=footer" width="100%" />
 
 </div>
