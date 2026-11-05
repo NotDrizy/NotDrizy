@@ -1,27 +1,151 @@
-<h2> Hi, I'm Drizy! <img src="https://media.discordapp.net/attachments/1292558952986574919/1382467576478830672/d7011aec179852075d60cb15dbbdebe4.jpg?ex=684b42c3&is=6849f143&hm=650e67e776a3d2ec150888839f1ca64b54a1337d763efafd3ea2948787de30b8&=&format=webp&width=551&height=505" width="50"></h2>
-<div>
-  <a href="https://github.com/NotDrizy"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
-  <a href="https://discord.com/users/967340965822099517"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/587188493713932298" alt="Discord Badge"/></a>
-<a href="https://t.me/NotDrizy"><img src="https://img.shields.io/badge/-Telegram-000000?style=flat-square&labelColor=000000&logo=telegram&logoColor=white&link=https://t.me/NotDrizy" alt="Telegram Badge"/></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=500&height=65&lines=Hey%2C+I'm+Drizy+%F0%9F%91%8B" alt="Hey, I'm Drizy" />
+
+NotDrizy — Developer • Creator • Tech Enthusiast
+
+Turning ideas into reality, one line of code at a time.
+
+<br/>
+
+<a href="https://github.com/NotDrizy">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.com/users/967340965822099517">
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA" />
+</a>
+<a href="https://t.me/NotDrizy">
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NotDrizy&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+
 </div>
 
-```zsh
-NotDrizy@root: ~ $ sh notdrizy.sh
-```
-```yml
-who I am?: hello guys, im notdrizy,
-```
+01 — WHO AM I?
+bash
+┌──(NotDrizy㉿root)-[~]
+└─$ whoami
 
-<h2> Experience </h2>
-<h3> Languages ​​and Skills I've been dealing with over time. </h3>
+> Hello, world! I'm Drizy.
+> Passionate about technology, development and creativity.
+> Always exploring, learning and building something new.
+
+┌──(NotDrizy㉿root)-[~]
+└─$ echo $CURRENT_MISSION
+
+> Build. Learn. Improve. Repeat.
 
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
-![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%#31A8FF)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![REACT](https://img.shields.io/badge/react-%000000.svg?style=for-the-badge&logo=react&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/nextjs-%1f2937.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+I'm a tech enthusiast who enjoys experimenting with different technologies, developing projects and turning creative ideas into functional solutions.
+
+I believe that every project is an opportunity to learn something new.
+
+js
+const Drizy = {
+    username: "NotDrizy",
+    alias: "Drizy",
+    role: "Developer",
+    mindset: "Always learning",
+    interests: [
+        "Programming",
+        "Web Development",
+        "Databases",
+        "Creative Design",
+        "Technology"
+    ],
+    motto: "Think different. Code better."
+};
+
+02 — TECH ARSENAL
+
+<details open>
+<summary><b>💻 Development & Frameworks</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Creative & Design</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+</p>
+</details>
+
+03 — GITHUB STATISTICS
+
+<div align="center">
+
+<a href="https://github.com/NotDrizy">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NotDrizy&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/NotDrizy">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDrizy&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+</a>
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotDrizy&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+
+</div>
+
+04 — CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotDrizy&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+05 — CONNECT WITH ME
+
+<div align="center">
+
+Have an interesting idea, project or just want to talk?
+
+Feel free to reach out!
+
+<br/>
+
+<a href="https://github.com/NotDrizy">
+<img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/967340965822099517">
+<img src="https://img.shields.io/badge/Find%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://t.me/NotDrizy">
+<img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=120&section=footer" width="100%" />
+
+Designed with passion by <b>Drizy</b> · © 2026
+
+</div>
