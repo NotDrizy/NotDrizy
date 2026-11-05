@@ -76,6 +76,4 @@ I like experimenting with different tools, learning new things and creating proj
 
 <br/><br/>
 
-⟡   NOTDRIZY — PERSONAL PROFILE
-
 </div>
