@@ -26,26 +26,32 @@ I like experimenting with different tools, learning new things and creating proj
 
 <img src="https://img.shields.io/badge/⌘-MY_TOOLKIT-9060CE?style=flat-square" />
 
-01 — Web Development
+01 — Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 </p>
 
-02 — Databases
+02 — Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+</p>
+
+03 — Databases
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-17141D?style=for-the-badge&logo=mysql&logoColor=67B7E1" />
 <img src="https://img.shields.io/badge/MariaDB-17141D?style=for-the-badge&logo=mariadb&logoColor=9BBADE" />
 </p>
 
-03 — Development Environment
+04 — Development Environment
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" />
 </p>
 
-04 — Design & Video
+05 — Design & Video
 
 <p>
 <img src="https://img.shields.io/badge/Photoshop-17141D?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
